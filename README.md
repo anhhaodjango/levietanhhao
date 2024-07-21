@@ -1,7 +1,7 @@
 # LE VIET ANH HAO
 
 - **Email:** lvietanhhao@gmail.com
-- **Ngày sinh:** 25.12.1990
+- **Ngày sinh:** 25.12.19xx
 - **Quê quán:** Bình Hưng Hòa A, Quận Bình Tân, TP Hồ Chí Minh
 - **Nơi Thường Trú:** 17/10 Đường Số 11, Phường Bình Hưng Hòa A, Quận Bình Tân, TP Hồ Chí Minh
 
